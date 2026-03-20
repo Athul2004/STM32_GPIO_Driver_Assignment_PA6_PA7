@@ -11,6 +11,11 @@ Integrate the provided bare-metal GPIO driver with the STM32 Nucleo-F446RE board
 
 ---
 
+
+https://github.com/user-attachments/assets/4a4c452b-f7be-4ed9-9a51-a47275460956
+
+
+
 ## Board & Toolchain
 
 | Item            | Detail                            |
