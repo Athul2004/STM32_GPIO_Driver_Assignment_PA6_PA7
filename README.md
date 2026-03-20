@@ -22,14 +22,7 @@ Integrate the provided bare-metal GPIO driver with the STM32 Nucleo-F446RE board
 
 ---
 
-## Pin Mapping
 
-| Pin  | Direction | Function            | Why This Pin?                                                    |
-| ---- | --------- | ------------------- | ---------------------------------------------------------------- |
-| PA5  | OUTPUT    | Onboard LED (LD2)   | Directly connected to LD2 on all Nucleo-64 boards                |
-| PA6  | OUTPUT    | External LED 1      | Available on CN10 Morpho header, no conflict with onboard pins   |
-| PA7  | OUTPUT    | External LED 2      | Adjacent to PA6 on CN10, convenient for breadboard wiring        |
-| PC13 | INPUT     | User Button (B1)    | Hardwired to the blue push-button on all Nucleo boards (active-LOW) |
 
 ---
 
