@@ -1,0 +1,4 @@
+../Src/main.c:13:5:main	1
+../Src/main.c:25:13:setup_pins	1
+../Src/main.c:57:13:handle_button	4
+../Src/main.c:80:13:alternate_leds	1
